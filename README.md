@@ -18,8 +18,6 @@ This repository showcases my ability to:
 
 The solution follows the **Medallion Architecture** with **Bronze**, **Silver**, and **Gold** layers:
 
-![Data Architecture](docs/data_architecture.png)
-
 ### 🥉 Bronze Layer – Raw Ingestion
 
 * Ingests **ERP and CRM CSV files** into SQL Server
